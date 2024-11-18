@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Liz Peterson, and I am a Masters of Environmental Data Science Student at UCSB's Bren School of Environmental Science and Management.
+- 😄 Pronouns: she/her
+- 📫 How to reach me: elizabethpeterson@bren.ucsb.edu
+
 <!--
 **egp4aq/egp4aq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
